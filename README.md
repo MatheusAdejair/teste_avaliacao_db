@@ -7,7 +7,7 @@ Para execução do teste devem ser seguidos os seguintes passos:
 
 1 - Fazer dowload do eclipse - versão atual disponível no site https://www.eclipse.org/
 
-2 - Atualizar dependências do arquivo POM.xml que se fizerem necessários para atender as versões atuais de cada ferramenta / framework - caso seja necessário
+2 - Atualizar dependências do arquivo POM.xml que se fizerem necessárias para atender as versões atuais de cada ferramenta / framework 
 
 3 - Alterar a informação dentro da classe "public ProductPage adicionarNovoCliente()"
 Deve incrementar + 1 para o usuário de e-mail, dado que não criei um código de geração de e-mails a fim de agilizar esta entrega
