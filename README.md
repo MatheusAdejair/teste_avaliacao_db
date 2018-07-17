@@ -5,7 +5,7 @@ O teste automatizado consiste em buscar o produto "Faded Short Sleeve T-shirts",
 
 Para execução do teste devem ser seguidos os seguintes passos:
 
-1 - Fazer dowload do eclipse - versão atual disponível no site https://www.eclipse.org/
+1 - Fazer download do eclipse - versão atual disponível no site https://www.eclipse.org/
 
 2 - Atualizar dependências do arquivo POM.xml que se fizerem necessárias para atender as versões atuais de cada ferramenta / framework 
 
